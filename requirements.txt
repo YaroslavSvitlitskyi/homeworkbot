@@ -4,7 +4,7 @@ blinker==1.4
 
 certifi==2018.8.24
 chardet==3.0.4
-chrome-gnome-shell==0.0.0
+
 command-not-found==0.3
 config==0.4.2
 cryptography==2.3
